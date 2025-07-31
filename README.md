@@ -64,10 +64,15 @@ Q15	Categorize content as “Good” or “Bad” based on keywords (kill, viole
 
 JOINs
 GROUP BY, ORDER BY, LIMIT
+
 Window Functions: RANK(), ROW_NUMBER()
+
 String Functions: SUBSTRING_INDEX(), STR_TO_DATE()
+
 Recursive CTEs for splitting multi-valued fields (cast, genre)
+
 CASE Statements for categorization
+
 Date Calculations using CURDATE() and INTERVAL
 
 
